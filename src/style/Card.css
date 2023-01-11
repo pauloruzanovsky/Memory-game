@@ -1,0 +1,13 @@
+.card > img {
+    width: 200px;
+    border-radius: 50%;
+    border: 1px solid black;
+    cursor: pointer;
+    filter:brightness(75%)
+
+}
+
+.card > img:hover {
+    filter:brightness(100%)
+
+}

@@ -1,0 +1,10 @@
+header {
+    font-size: 50px;
+    background: black;
+    color: white;
+    font-family:"Karla";
+    font-weight: bold;
+    padding: 20px;
+    display: flex;
+    justify-content:space-between;
+}
