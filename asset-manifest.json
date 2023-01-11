@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.90944697.css",
+    "main.js": "/static/js/main.798e43fb.js",
+    "static/media/yaySound.mp3": "/static/media/yaySound.d9aba3b0acf2faf79b03.mp3",
+    "static/media/poffo.jpg": "/static/media/poffo.e0f2b1f12e8d3033c060.jpg",
+    "static/media/che.jpg": "/static/media/che.82b499833c01b010f46c.jpg",
+    "static/media/kito.jpg": "/static/media/kito.f8e4408a981b0a344b0a.jpg",
+    "static/media/jorge.jpg": "/static/media/jorge.4da59bd20185c9a665e4.jpg",
+    "static/media/guto.jpg": "/static/media/guto.57d79a4dec414a7bc4a2.jpg",
+    "static/media/ruza.jpg": "/static/media/ruza.91d40e5e191071d49bfb.jpg",
+    "static/media/neids.jpg": "/static/media/neids.8bbe2189b2a32f14b4f4.jpg",
+    "static/media/mosby.jpg": "/static/media/mosby.cd6f7f732022fadacbc7.jpg",
+    "static/media/lelo.jpg": "/static/media/lelo.0a99e5348ce2606b0f84.jpg",
+    "static/media/kohler.jpg": "/static/media/kohler.b425cbeb35ebc0ac1ae9.jpg",
+    "static/media/dani.jpg": "/static/media/dani.ad3b183aa63b8c2690dd.jpg",
+    "static/media/mene.jpg": "/static/media/mene.dadfa7f374c0e9ddc865.jpg",
+    "index.html": "/index.html",
+    "main.90944697.css.map": "/static/css/main.90944697.css.map",
+    "main.798e43fb.js.map": "/static/js/main.798e43fb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90944697.css",
+    "static/js/main.798e43fb.js"
+  ]
+}
